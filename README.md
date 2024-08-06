@@ -1,7 +1,3 @@
-Here's the updated README with the images included:
-
----
-
 # 📱 QR Code Generator
 
 Welcome to the **QR Code Generator**—a sleek and intuitive tool for creating QR codes from any text or URL! Whether you’re looking to share a link or encode some information, this app provides a fast and easy way to generate QR codes right in your browser.
